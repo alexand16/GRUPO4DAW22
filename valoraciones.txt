@@ -1,0 +1,5 @@
+Opiniones de la practicas segun los integrantes:
+
+- Rubén Carmona: considera que la practica es muy interesante y entretenida.
+- José Antonio López: opina que es una herramienta muy útil para trabajar.
+- Alejandro Andrade: Es muy util debido a que permite modificar un archivo de forma local y desde la nube. 
