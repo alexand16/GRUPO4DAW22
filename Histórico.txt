@@ -1,0 +1,10 @@
+git init
+git remote add origin https://github.com/alexand16/GRUPO4DAW22.git
+git pull origin master
+git status
+git add web
+git add app
+git commit -m 'Modificación del archivo Config.php y subida de los demás archivos del controlador'
+git push -u origin master
+
+http://josloplop2.com.mialias.net/alimentos/web/index.php
