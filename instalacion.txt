@@ -1,0 +1,5 @@
+Paso 1 Conectamos con el servidor mediante ssh (ssh josloplo27@134.0.10.40)
+Paso 2 Creamos la carpeta alimentos dentro de la carpeta web (mkdir alimentos)
+Paso 3 git init en alimentos (git init)
+Paso 4 Descargar una rama del proyecto (git remote add origin https://github.com/alexand16/GRUPO4DAW22.git)
+Paso 5 (git pull origin master)
